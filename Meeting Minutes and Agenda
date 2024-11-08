@@ -4,7 +4,14 @@ Brainstormed basic functions for the subsystems:
 Customer:
 
 Service:
+-View orders: time since order placed, products ordered, 
+-View tables: view allergies, state (full, clean, empty etc.)
+-Edit orders: substitutions, special requests
 
 Manager:
+-Pay:
+-Timetabling:
+-Holiday requests/shift management
+-Check stock supplies
 
-Operations
+Operations:
