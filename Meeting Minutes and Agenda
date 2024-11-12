@@ -7,7 +7,12 @@ Customer:
 Service:
 -View orders: time since order placed, products ordered, 
 -View tables: view allergies, state (full, clean, empty etc.)
+-Track service rates (how long people are at a table on average, how long people wait for food/drinks...)
+-Order food and and drinks (adding to bill)
 -Edit orders: substitutions, special requests
+-Check in bookings and seat walkins
+-Change status on delivered food (being prepared, prepared/wating, recived)
+-Taking a payment (card or cash)
 
 Manager:
 -Pay:
@@ -21,6 +26,4 @@ Manager:
 -Space (number of tables available, bookings...) 
 
 Operations:
-
-
 
