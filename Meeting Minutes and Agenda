@@ -3,6 +3,14 @@ Agrnda: Cover plans for the coursework and layout functional requirements for th
 Brainstormeing basic functions for the subsystems:
 
 Customer:
+-Search & Filter Restaurants: By name, location, cuisine, price, or availability.
+-Table Booking: Reserve, modify, or cancel tables.
+-Pre-order Meals: Select dishes with special instructions.
+-Feedback: Submit and view restaurant reviews.
+-Account Management: Register, log in, and update profile.
+-Payments: Pay for bookings and view receipts.
+-Location Services: Find nearby restaurants.
+
 
 Service:
 -View orders: time since order placed, products ordered, 
